@@ -155,8 +155,7 @@ const CONTENT = {
     name: "Орест",
     rolePrefixes: [
       "Junior Frontend Developer",
-      "React & JavaScript Ентузіаст",
-      "Творець сучасних SPA та UI",
+      "React & JavaScript"
     ],
     location: "Луцьк, Україна (Remote / Relocation)",
     summary:
