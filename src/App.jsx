@@ -592,7 +592,7 @@ export default function App() {
 </a>
 
                   <a
-                    href="https://linkedin.com"
+                    href="https://www.linkedin.com/in/orest-dorosh-b73854392/"
                     target="_blank"
                     rel="noreferrer"
                     className="inline-flex items-center gap-2 rounded-xl border border-white/10 bg-white/5 px-4 py-2.5 text-xs sm:text-sm font-medium text-slate-200 hover:border-sky-400/40 hover:text-sky-300 transition-all"
